@@ -1,2 +1,2 @@
-# Billing-System-Using-C-
+# Billing-System-Using-C++
 A program developed using C++ intended at exhibiting concepts of object oriented design, inheritance and virtual functions in action. Many different suppliers provides gas, phone and electricity services to their customers. There exist records indicating the type of service provided, the supplier name, customer name and address, the account balance, usage information and number of days since the last reading. The program reads this text file and creates instances of the appropriate record type (Gas, Electricity or Phone) and then processes the information to generate billing amounts, calculate discounts (if the customer requests all three services from a specific supplier), and display detailed customer records.
